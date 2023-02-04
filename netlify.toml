@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/proxy/"
-to = "https://idaku-dev.netlify.app/"
+from = "/proxy/*"
+to = "https://coba-pwa.netlify.app/:splat"
 status = 200
