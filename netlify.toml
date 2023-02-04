@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/visitor"
+to = "visitor-vue.netlify.app"
+status = 200
