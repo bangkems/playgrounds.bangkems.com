@@ -1,4 +1,5 @@
 [[redirects]]
-from = "/visitor/"
-to = "https://visitor-vue.netlify.app/"
+from = "/visitor/*"
+to = "https://visitor-vue.netlify.app/:splat"
 status = 200
+force = TRUE
